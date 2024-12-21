@@ -19,10 +19,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.pankajmanral.todoList"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ca8711c9-28d0-4bc0-9cfc-d512ff92d640"
+      }
+    },
+    "owner": "pankajmanral"
   }
 }
